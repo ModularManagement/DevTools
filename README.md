@@ -22,6 +22,9 @@
 
 ![screenshot](https://user-images.githubusercontent.com/17054134/33885495-d0ed5d3c-df43-11e7-8d3a-459257ded28f.png)
 
+## MM updates
+foo
+
 ## Installing
 
 You can install it for [Chrome](https://chrome.google.com/webstore/detail/starcounter-devtools/mpchkilmmalfopikamgellgdgoidhmnh) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/starcounter-devtools/).
